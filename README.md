@@ -1,6 +1,7 @@
-# Desafio 2 proposto pelo Tech Lead Felipe Aguiar da ([DIO](https://web.dio.me/))
 
-## 2️⃣ Calculadora de Partidas Ranqueadas
+# 2️⃣ Calculadora de Partidas Ranqueadas
+
+## - Desafio 2 proposto pelo Tech Lead Felipe Aguiar da ([DIO](https://web.dio.me/))
 
 ### O Que Deve Ser Utilizado
 
